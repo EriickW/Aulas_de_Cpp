@@ -9,3 +9,5 @@
 - [Aula 7 (Comando de decisão IF Else - Parte 1)](/Aula7)
 - [Aula 8 (Comando de decisão IF ELSE e comando Goto - Parte 2)](/Aula8)
 - [Aula 9 (Operadores AND, OR, NOT)](/Aula9)
+- [Aula 10 (Operador Ternário)](/Aula10)
+- [Aula 11 (Comando Switch Case)](/Aula11)
