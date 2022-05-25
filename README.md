@@ -11,3 +11,8 @@
 - [Aula 9 (Operadores AND, OR, NOT)](/Aula9)
 - [Aula 10 (Operador Ternário)](/Aula10)
 - [Aula 11 (Comando Switch Case)](/Aula11)
+- [Aula 12 (Comando de laço While)](/Aula12)
+- [Aula 13 (Comando break)](/Aula13)
+- [Aula 14 (Comando de loop Do While)](/Aula14)
+- [Aula 15 (Comando de loop For)](/Aula15)
+- [Aula 15 (Array/Vetor)](/Aula16)
