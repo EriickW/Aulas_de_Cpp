@@ -17,3 +17,4 @@
 - [Aula 15 (Comando de loop For)](/Aula15)
 - [Aula 16 (Array/Vetor)](/Aula16)
 - [Aula 17 (Array bidimensional / Matriz)](/Aula17)
+- [Aula 17 (Jogo da Forca usando vetores)](/Aula17)
