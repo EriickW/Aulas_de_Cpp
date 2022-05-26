@@ -20,7 +20,7 @@ int main(){
 
     */
     int cont=20;
-    //ele primeiro ele faz o que o bloco manda depois ele compara
+    //ele primeiro ele faz o que o bloco manda depois ele compara o "Do" significa faça
          do{
           cout<< cont<<"\n";
           cont++;

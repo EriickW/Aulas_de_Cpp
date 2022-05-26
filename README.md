@@ -15,4 +15,5 @@
 - [Aula 13 (Comando break)](/Aula13)
 - [Aula 14 (Comando de loop Do While)](/Aula14)
 - [Aula 15 (Comando de loop For)](/Aula15)
-- [Aula 15 (Array/Vetor)](/Aula16)
+- [Aula 16 (Array/Vetor)](/Aula16)
+- [Aula 17 (Array bidimensional / Matriz)](/Aula17)
