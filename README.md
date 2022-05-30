@@ -17,4 +17,5 @@
 - [Aula 15 (Comando de loop For)](/Aula15)
 - [Aula 16 (Array/Vetor)](/Aula16)
 - [Aula 17 (Array bidimensional / Matriz)](/Aula17)
-- [Aula 17 (Jogo da Forca usando vetores)](/Aula17)
+- [Aula 18 (Jogo da Forca usando vetores)](/Aula18)
+- [Aula 19 ( Argumentos para a função main, argc e argv)](/Aula19)

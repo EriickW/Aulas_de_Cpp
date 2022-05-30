@@ -36,7 +36,7 @@ int main(){
     }
     for(l=0;l<3;l++){
         for(c=0;c<4;c++){
-          cout<<matriz[l][c];
+          cout<<matriz[l][c]<<" ";
         }
     cout<<"\n";
     }
