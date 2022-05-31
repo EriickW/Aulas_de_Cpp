@@ -19,3 +19,5 @@
 - [Aula 17 (Array bidimensional / Matriz)](/Aula17)
 - [Aula 18 (Jogo da Forca usando vetores)](/Aula18)
 - [Aula 19 ( Argumentos para a função main, argc e argv)](/Aula19)
+- [Aula 20 ( Funções )](/Aula20)
+- [Aula 21 ( Sobrecarga de Funções )](/Aula21)
