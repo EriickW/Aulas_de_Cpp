@@ -21,3 +21,6 @@
 - [Aula 19 ( Argumentos para a função main, argc e argv)](/Aula19)
 - [Aula 20 ( Funções )](/Aula20)
 - [Aula 21 ( Sobrecarga de Funções )](/Aula21)
+- [Aula 22 ( Omissão de argumentos e argumentos padrão)](/Aula22)
+- [Aula 23 ( Funções recursivas (recursividade) )](/Aula23)
+- [Aula 24 (Exercicios de função recursiva)](/Aula24)
